@@ -47,7 +47,7 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/StockTracker.git
+git clone https://github.com/Akshaylinson/StockTracker.git
 cd StockTracker
 Install the necessary dependencies:
 
